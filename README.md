@@ -32,6 +32,7 @@ Now let's see how easy it is to [apply your suggestion](https://docs.github.com/
 1. Type a commit message.
 This code is working okay.
 1. Click **Commit changes**.
+This code is working Proprly.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 <footer>
